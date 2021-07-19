@@ -1,2 +1,2 @@
-# KaliLive DockerHub
+# DockerHub
 Docker Extracted Image
